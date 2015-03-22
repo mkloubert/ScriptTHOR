@@ -1,0 +1,2 @@
+﻿
+alert('Test from JS!');

@@ -1,0 +1,12 @@
+/MarcelJoachimKloubert.ScriptTHOR/bin/Debug/plugins/*.dll
+/MarcelJoachimKloubert.ScriptTHOR/bin/Debug/plugins/*.pdb
+/MarcelJoachimKloubert.ScriptTHOR/obj
+/MarcelJoachimKloubert.ScriptTHOR/bin
+/MarcelJoachimKloubert.ScriptTHOR.Engines.CSharp/obj
+/MarcelJoachimKloubert.ScriptTHOR.Engines.CSharp/bin
+/MarcelJoachimKloubert.ScriptTHOR.Engines.Jurassic/obj
+/MarcelJoachimKloubert.ScriptTHOR.Engines.Jurassic/bin
+/MarcelJoachimKloubert.ScriptTHOR.Engines.VBNet/obj
+/MarcelJoachimKloubert.ScriptTHOR.Engines.VBNet/bin
+/MarcelJoachimKloubert.ScriptTHOR.v12.suo
+/MarcelJoachimKloubert.ScriptTHOR/MarcelJoachimKloubert.ScriptTHOR.csproj.user

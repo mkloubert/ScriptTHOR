@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelJoachimKloubert.ScriptTHOR", "MarcelJoachimKloubert.ScriptTHOR\MarcelJoachimKloubert.ScriptTHOR.csproj", "{1234A75C-0543-46C0-AB47-EF94D62BF558}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engines", "Engines", "{C42F6EBE-763A-4A1D-AF6E-57D9C8BD5A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelJoachimKloubert.ScriptTHOR.Engines.Jurassic", "MarcelJoachimKloubert.ScriptTHOR.Engines.Jurassic\MarcelJoachimKloubert.ScriptTHOR.Engines.Jurassic.csproj", "{BA91AF76-CA43-4796-8724-355D46BE9A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelJoachimKloubert.ScriptTHOR.Engines.VBNet", "MarcelJoachimKloubert.ScriptTHOR.Engines.VBNet\MarcelJoachimKloubert.ScriptTHOR.Engines.VBNet.csproj", "{CCBE3728-D350-4E33-9042-ED23A87CA74B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarcelJoachimKloubert.ScriptTHOR.Engines.CSharp", "MarcelJoachimKloubert.ScriptTHOR.Engines.CSharp\MarcelJoachimKloubert.ScriptTHOR.Engines.CSharp.csproj", "{0FC13F7E-547D-41E4-9990-A1621FB7733E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1234A75C-0543-46C0-AB47-EF94D62BF558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1234A75C-0543-46C0-AB47-EF94D62BF558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1234A75C-0543-46C0-AB47-EF94D62BF558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1234A75C-0543-46C0-AB47-EF94D62BF558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA91AF76-CA43-4796-8724-355D46BE9A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA91AF76-CA43-4796-8724-355D46BE9A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA91AF76-CA43-4796-8724-355D46BE9A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA91AF76-CA43-4796-8724-355D46BE9A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCBE3728-D350-4E33-9042-ED23A87CA74B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBE3728-D350-4E33-9042-ED23A87CA74B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBE3728-D350-4E33-9042-ED23A87CA74B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBE3728-D350-4E33-9042-ED23A87CA74B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC13F7E-547D-41E4-9990-A1621FB7733E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC13F7E-547D-41E4-9990-A1621FB7733E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC13F7E-547D-41E4-9990-A1621FB7733E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC13F7E-547D-41E4-9990-A1621FB7733E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BA91AF76-CA43-4796-8724-355D46BE9A70} = {C42F6EBE-763A-4A1D-AF6E-57D9C8BD5A9E}
+		{CCBE3728-D350-4E33-9042-ED23A87CA74B} = {C42F6EBE-763A-4A1D-AF6E-57D9C8BD5A9E}
+		{0FC13F7E-547D-41E4-9990-A1621FB7733E} = {C42F6EBE-763A-4A1D-AF6E-57D9C8BD5A9E}
+	EndGlobalSection
+EndGlobal
